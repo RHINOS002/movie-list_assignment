@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-list_assignment/static/css/main.b31419ea.css",
+    "main.js": "/movie-list_assignment/static/js/main.1f274488.js",
+    "index.html": "/movie-list_assignment/index.html",
+    "main.b31419ea.css.map": "/movie-list_assignment/static/css/main.b31419ea.css.map",
+    "main.1f274488.js.map": "/movie-list_assignment/static/js/main.1f274488.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31419ea.css",
+    "static/js/main.1f274488.js"
+  ]
+}
